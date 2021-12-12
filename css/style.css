@@ -14,16 +14,12 @@ body{
   color: black;
 }
 
-
 div#container {
-}
-
-div#menu {
   border: 1px solid black;
   border-color: black;
   background-color: #DFDFDF;
   position: relative;
-  top: 30px;
+  top: 20px;
   height: 253px;
   border-color: black;
   padding: 5px;
